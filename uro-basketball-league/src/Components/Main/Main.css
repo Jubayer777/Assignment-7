@@ -1,0 +1,17 @@
+.players-container{
+    width:80%;
+}
+.main-container{
+    background-color: #FFE4B5;
+}
+@media(max-width:768px){
+    .main-container{
+        display: flex;
+        flex-direction: column-reverse; 
+    }
+    .players-container{
+        margin-right: auto;
+        margin-left: auto;
+        width: 100%;
+    }
+}

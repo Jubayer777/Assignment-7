@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Ante Zizic",
+    "img": "https://nba-players.herokuapp.com/players/Zizic/Ante",
+    "salary":24000,
+    "gamesPlayed":12
+  },
+  {
+    "id": 2,
+    "name": "Cedi Osman",
+    "img": "https://nba-players.herokuapp.com/players/Osman/Cedi",
+    "salary":50000,
+    "gamesPlayed":37
+  },
+  {
+    "id": 3,
+    "name": "Channing Frye",
+    "img": "https://nba-players.herokuapp.com/players/Frye/Channing",
+    "salary":47000,
+    "gamesPlayed":37
+  },
+  {
+    "id": 4,
+    "name": "Derrick Rose",
+    "img":"https://nba-players.herokuapp.com/players/Rose/Derrick",
+    "salary":22000,
+    "gamesPlayed":10
+  },
+  {
+    "id": 5,
+    "name": "Dwyane Wade",
+    "img":"https://nba-players.herokuapp.com/players/Wade/Dwyane",
+    "salary":46230,
+    "gamesPlayed":42
+  },
+  {
+    "id": 6,
+    "name": "Isaiah Thomas",
+    "img":"https://nba-players.herokuapp.com/players/Thomas/Isaiah",
+    "salary":19040,
+    "gamesPlayed":8
+  },
+  {
+    "id": 7,
+    "name": "Jae Crowder",
+    "img":"https://nba-players.herokuapp.com/players/Crowder/Jae",
+    "salary":55400,
+    "gamesPlayed":46
+  },
+  {
+    "id": 8,
+    "name": "Iman Shumpert",
+    "img":"https://nba-players.herokuapp.com/players/Shumpert/Iman",
+    "salary":21900,
+    "gamesPlayed":14
+  },
+  {
+    "id": 9,
+    "name": "Jeff Green",
+    "img":"https://nba-players.herokuapp.com/players/Green/Jeff",
+    "salary":54300,
+    "gamesPlayed":46
+  },
+  {
+    "id": 10,
+    "name": "John Holland",
+    "img":"https://nba-players.herokuapp.com/players/Holland/John",
+    "salary":15000,
+    "gamesPlayed":4
+  },
+  {
+    "id": 11,
+    "name": "Jose Calderon",
+    "img":"https://nba-players.herokuapp.com/players/Calderon/Jose",
+    "salary":37000,
+    "gamesPlayed":34
+  },
+    {
+      "id": 12,
+    "name": "J.R. Smith",
+    "img":"https://nba-players.herokuapp.com/players/Smith/Jr",
+    "salary":49560,
+    "gamesPlayed":45
+    },
+    {
+      "id": 13,
+      "name": "Kevin Love",
+      "img":"https://nba-players.herokuapp.com/players/Love/Kevin",
+      "salary":48880,
+      "gamesPlayed":45
+    },
+    { "id": 14,
+      "name": "Kyle Korver",
+      "img":"https://nba-players.herokuapp.com/players/Korver/Kyle",
+      "salary":50000,
+      "gamesPlayed":46
+    }
+]
